@@ -1,6 +1,6 @@
 # Utility Functions
 
-A NSS classroom exercise to introduce Mocha and Chai testing suites. This project was never completed.
+A NSS classroom exercise to introduce Mocha and Chai testing suites. *This project was never completed.*
 
 ### Goal
 
