@@ -1,6 +1,6 @@
 # Utility Functions
 
-A NSS classroom exercise to introduce Mocha and Chai testing suites
+A NSS classroom exercise to introduce Mocha and Chai testing suites. This project was never completed.
 
 ### Goal
 
@@ -15,19 +15,7 @@ Mocha, Chai, Code editor
 Create new repository and enter the following command:
 
 ```sh
-$ git clone https://github.com/threepears/es6-tests.git
+$ git clone https://github.com/threepears/utility-functions.git
 ```
 
-Run the following command to install all dependencies:
-
-```sh
-$ npm install
-```
-
-Then you can run the testing suite with this Terminal command:
-
-```sh
-$ npm run test
-```
-
-All testing results will be displayed in the Terminal!
+Once completed, you can open and view all Javascript documents and the functions and tests that were written for this exercise locally in your code editor.
